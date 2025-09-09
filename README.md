@@ -1,0 +1,2 @@
+# sy.OOP
+oop practicals
